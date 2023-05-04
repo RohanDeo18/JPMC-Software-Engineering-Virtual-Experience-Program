@@ -1,2 +1,2 @@
-# JPMC-Software-Engineering-Virtual-Experience-Program
-The JPMC Software Engineering Virtual Experience Program from Forage
+# JPMC Task 1
+Starter repo for task 1 of the JPMC software engineering program
